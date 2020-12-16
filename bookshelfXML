@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<bookshelf>
+	<book id="1001">
+		<author>pual deitel and harvey deitel</author>
+		<bookname>c# 6 for programming</bookname>
+		<quantity>23</quantity>
+		<price>50</price>
+	</book>
+	<book id="2001">
+		<author>Kathy Schwalbe</author>
+		<bookname>INFORMATION TECHNOLOGY  PROJECT MANAGEMENT</bookname>
+		<quantity>15</quantity>
+		<price>24</price>
+	</book>
+</bookshelf>
